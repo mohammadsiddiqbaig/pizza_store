@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pizza_store/static/css/main.6932902d.css",
+    "main.js": "/pizza_store/static/js/main.4a669223.js",
+    "static/js/453.2e505874.chunk.js": "/pizza_store/static/js/453.2e505874.chunk.js",
+    "static/media/hero01.jpg": "/pizza_store/static/media/hero01.19a6575f14f47a76021a.jpg",
+    "static/media/fa-solid-900.ttf": "/pizza_store/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/ODW7E30.jpg": "/pizza_store/static/media/ODW7E30.1e225ec1159c082b881c.jpg",
+    "static/media/fa-brands-400.ttf": "/pizza_store/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/pizza_store/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/pizza_store/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/pizza_store/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/pizza_store/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/pizza_store/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/pizza_store/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/pizza_store/index.html",
+    "main.6932902d.css.map": "/pizza_store/static/css/main.6932902d.css.map",
+    "main.4a669223.js.map": "/pizza_store/static/js/main.4a669223.js.map",
+    "453.2e505874.chunk.js.map": "/pizza_store/static/js/453.2e505874.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6932902d.css",
+    "static/js/main.4a669223.js"
+  ]
+}
