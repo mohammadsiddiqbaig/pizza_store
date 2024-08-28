@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "103",
+      "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/ultimate-tandoori-veggie.059dfd9b3f088818ed725872d98d20b6.1.jpg?width=300",
+      "name": "ltimate Tandoori VeggieNEW ",
+      "description": "Classic delight with 100% real mozzarella cheese",
+      "price": 6.99
+    },
+    {
+      "id": "104",
+      "image": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Margherita",
+      "description": "Classic delight with 100% real mozzarella cheese",
+      "price": 6.99
+    },
+    {
+      "id": "105",
+      "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/schezwan-margherita.4371d9483546db47a97c5503ccad0c2f.1.jpg?width=300",
+      "name": "Chicken Tikka Supreme",
+      "description": "Classic delight with 100% real mozzarella cheese",
+      "price": 6.99
+    },
+    {
+      "id": "106",
+      "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/mazedar-makhni-paneer.cb3150d2be9cb8dcd248be70921c5196.1.jpg?width=300",
+      "name": "Chicken Supreme",
+      "description": "Classic delight with 100% real mozzarella cheese",
+      "price": 6.99
+    },
+    {
+      "id": "107",
+      "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/triple-chicken-feast.e4a546e7a8581a60952b99e3fe22987e.1.jpg?width=300",
+      "name": "Triple Chicken Feast",
+      "description": "Classic delight with 100% real mozzarella cheese",
+      "price": 6.99
+    },
+    {
+      "id": "108",
+      "image": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-tikka.6d441a65371e941db36c2754586119a8.1.jpg?width=300",
+      "name": "Chicken Tikka",
+      "description": "Classic delight with 100% real mozzarella cheese",
+      "price": 6.99
+    }
+  ]
+}

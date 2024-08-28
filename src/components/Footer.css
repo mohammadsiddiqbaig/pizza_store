@@ -1,0 +1,29 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.footer p {
+    margin: 0;
+    padding: 0;
+}
+
+.footer .social-icons {
+    margin-top: 10px;
+}
+
+.footer .social-icons a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer .social-icons a:hover {
+    color: #ff6347; /* Tomato color on hover */
+}
